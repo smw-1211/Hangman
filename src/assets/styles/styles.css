@@ -1,0 +1,52 @@
+body {
+    background: url('../img/bg.png');
+    background-repeat: no-repeat;
+}
+
+.root {
+    margin-top: 120px;
+}
+
+.all {
+    display: grid;
+    place-items: center;
+    margin-top: 100px;
+    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+    color: white;
+    font-weight: bold;
+    border: 3px solid #f1f1f1;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+}
+
+.btn {
+    width: 100%;
+    border: 3px solid azure;
+    background: none;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    padding: .5rem;
+    font-weight: bold;
+    cursor: pointer;
+    color: azure;
+  }
+  
+.btn.active {
+background-color: hsl(200, 100%, 50%);
+color: white;
+}
+
+.btn.inactive {
+opacity: .3;
+}
+
+.btn:hover:not(:disabled),
+.btn:focus:not(:disabled) {
+background-color: hsl(200, 100%, 75%);
+}
