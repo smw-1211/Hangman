@@ -1,0 +1,82 @@
+[
+  {
+    "word": "Software Engineer",
+    "description": "Develops and maintains software applications by writing clean and efficient code."
+  },
+  {
+    "word": "Data Scientist",
+    "description": "Analyzes and interprets complex data to help organizations make informed decisions."
+  },
+  {
+    "word": "Frontend Developer",
+    "description": "Builds and designs user-facing interfaces for websites and applications."
+  },
+  {
+    "word": "Backend Developer",
+    "description": "Handles server-side logic, databases, and application integration."
+  },
+  {
+    "word": "Cloud Architect",
+    "description": "Designs cloud computing systems and strategies for scalable applications."
+  },
+  {
+    "word": "Cybersecurity Analyst",
+    "description": "Protects systems and networks from digital threats and vulnerabilities."
+  },
+  {
+    "word": "DevOps Engineer",
+    "description": "Bridges development and operations to streamline software delivery and infrastructure management."
+  },
+  {
+    "word": "Machine Learning Engineer",
+    "description": "Builds and deploys algorithms that enable machines to learn from data."
+  },
+  {
+    "word": "Database Administrator",
+    "description": "Manages and secures databases, ensuring availability and performance."
+  },
+  {
+    "word": "UX Designer",
+    "description": "Designs intuitive and engaging user experiences for digital products."
+  },
+  {
+    "word": "QA Tester",
+    "description": "Tests software for bugs and ensures quality before release."
+  },
+  {
+    "word": "Product Manager",
+    "description": "Oversees product development, aligning business goals with user needs."
+  },
+  {
+    "word": "Business Analyst",
+    "description": "Analyzes business processes and translates them into technical requirements."
+  },
+  {
+    "word": "Full Stack Developer",
+    "description": "Skilled in both frontend and backend development to build complete web applications."
+  },
+  {
+    "word": "AI Researcher",
+    "description": "Explores and advances the field of artificial intelligence through experiments and models."
+  },
+  {
+    "word": "Site Reliability Engineer",
+    "description": "Ensures system uptime and reliability through monitoring and automation."
+  },
+  {
+    "word": "Blockchain Developer",
+    "description": "Builds decentralized applications and smart contracts using blockchain technology."
+  },
+  {
+    "word": "Game Developer",
+    "description": "Creates video games by combining code, graphics, and gameplay mechanics."
+  },
+  {
+    "word": "IT Support Specialist",
+    "description": "Provides technical support and troubleshooting for hardware and software issues."
+  },
+  {
+    "word": "Systems Analyst",
+    "description": "Evaluates and improves IT systems to meet business and technical needs."
+  }
+]
