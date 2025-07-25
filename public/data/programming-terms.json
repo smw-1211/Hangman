@@ -1,0 +1,82 @@
+[
+  {
+    "word": "Recursion",
+    "description": "A function calling itself to solve smaller instances of a problem."
+  },
+  {
+    "word": "Inheritance",
+    "description": "An object-oriented concept where one class acquires properties of another."
+  },
+  {
+    "word": "Polymorphism",
+    "description": "The ability of different objects to be accessed through the same interface."
+  },
+  {
+    "word": "Algorithm",
+    "description": "A step-by-step procedure for solving a problem or performing a task."
+  },
+  {
+    "word": "Big O",
+    "description": "A notation that describes the performance or complexity of an algorithm."
+  },
+  {
+    "word": "Asynchronous",
+    "description": "Operations that run independently without blocking the main execution flow."
+  },
+  {
+    "word": "REST API",
+    "description": "A web service architecture using HTTP methods to access and manipulate resources."
+  },
+  {
+    "word": "Encapsulation",
+    "description": "Wrapping data and methods into a single unit and hiding internal details."
+  },
+  {
+    "word": "Middleware",
+    "description": "Software that connects different applications or services in a system."
+  },
+  {
+    "word": "Singleton",
+    "description": "A design pattern ensuring a class has only one instance across the system."
+  },
+  {
+    "word": "Multithreading",
+    "description": "A technique where multiple threads run concurrently to improve performance."
+  },
+  {
+    "word": "Garbage Collection",
+    "description": "Automatic memory management that frees unused memory spaces in programs."
+  },
+  {
+    "word": "Abstraction",
+    "description": "Hiding complex details and showing only essential features of an object or system."
+  },
+  {
+    "word": "Functional Programming",
+    "description": "A programming paradigm where computation is done using pure functions."
+  },
+  {
+    "word": "Object Oriented",
+    "description": "A programming paradigm centered around objects and classes."
+  },
+  {
+    "word": "Dependency Injection",
+    "description": "A design pattern that allows objects to receive dependencies from external sources."
+  },
+  {
+    "word": "Compilation",
+    "description": "The process of converting source code into executable machine code."
+  },
+  {
+    "word": "Debugging",
+    "description": "The process of finding and fixing errors or bugs in software."
+  },
+  {
+    "word": "Virtual Machine",
+    "description": "An emulation of a computer system that runs software like a real machine."
+  },
+  {
+    "word": "Source Control",
+    "description": "Tools and practices to track, manage, and collaborate on code changes over time."
+  }
+]
