@@ -1,0 +1,82 @@
+[
+  {
+    "word": "Photoshop",
+    "description": "A graphic design and photo editing tool used for creating visual content."
+  },
+  {
+    "word": "Excel",
+    "description": "A spreadsheet tool used for data analysis, calculations, and charting."
+  },
+  {
+    "word": "PowerPoint",
+    "description": "A presentation software used to create slideshows for meetings and lectures."
+  },
+  {
+    "word": "Figma",
+    "description": "A collaborative interface design tool used for UI/UX design and prototyping."
+  },
+  {
+    "word": "Visual Studio",
+    "description": "An integrated development environment (IDE) by Microsoft for building applications."
+  },
+  {
+    "word": "IntelliJ",
+    "description": "A powerful IDE developed by JetBrains, commonly used for Java development."
+  },
+  {
+    "word": "PyCharm",
+    "description": "An IDE specifically designed for Python development by JetBrains."
+  },
+  {
+    "word": "GitHub",
+    "description": "A platform for version control and code collaboration using Git."
+  },
+  {
+    "word": "Slack",
+    "description": "A communication platform for teams, used for messaging and collaboration."
+  },
+  {
+    "word": "Notion",
+    "description": "An all-in-one workspace for notes, tasks, wikis, and team collaboration."
+  },
+  {
+    "word": "Jira",
+    "description": "A project management tool used for tracking issues and agile development."
+  },
+  {
+    "word": "Trello",
+    "description": "A visual project management tool based on boards and cards for task tracking."
+  },
+  {
+    "word": "Zoom",
+    "description": "A video conferencing tool used for online meetings, webinars, and collaboration."
+  },
+  {
+    "word": "Docker",
+    "description": "A platform that uses containerization to develop, ship, and run applications."
+  },
+  {
+    "word": "Kubernetes",
+    "description": "An open-source system for automating deployment and scaling of containerized apps."
+  },
+  {
+    "word": "Postman",
+    "description": "A tool used for testing APIs by sending HTTP requests and viewing responses."
+  },
+  {
+    "word": "Tableau",
+    "description": "A data visualization tool that helps convert raw data into understandable insights."
+  },
+  {
+    "word": "Canva",
+    "description": "An online design tool used to create graphics, presentations, and social media posts."
+  },
+  {
+    "word": "WordPress",
+    "description": "A content management system (CMS) used for building and managing websites."
+  },
+  {
+    "word": "Unity",
+    "description": "A game development platform used to create 2D and 3D interactive experiences."
+  }
+]
