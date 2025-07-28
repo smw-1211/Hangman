@@ -1,0 +1,82 @@
+[
+  {
+    "word": "Firewall",
+    "description": "A network security system that monitors and controls incoming and outgoing traffic."
+  },
+  {
+    "word": "Phishing",
+    "description": "A scam where attackers trick users into revealing sensitive info through fake emails or websites."
+  },
+  {
+    "word": "Malware",
+    "description": "Malicious software designed to damage or gain unauthorized access to systems."
+  },
+  {
+    "word": "Ransomware",
+    "description": "A type of malware that locks data and demands payment for its release."
+  },
+  {
+    "word": "Encryption",
+    "description": "The process of converting data into code to prevent unauthorized access."
+  },
+  {
+    "word": "VPN",
+    "description": "A Virtual Private Network encrypts your internet connection for secure, private browsing."
+  },
+  {
+    "word": "DDoS",
+    "description": "Distributed Denial of Service: an attack that floods a server with traffic to take it down."
+  },
+  {
+    "word": "Keylogger",
+    "description": "A tool or malware that records keystrokes to capture sensitive data like passwords."
+  },
+  {
+    "word": "Zero Day",
+    "description": "A vulnerability in software that’s exploited before the developer has a fix available."
+  },
+  {
+    "word": "Exploit",
+    "description": "A piece of code or technique that takes advantage of a security flaw."
+  },
+  {
+    "word": "Authentication",
+    "description": "The process of verifying a user’s identity, like with passwords or biometrics."
+  },
+  {
+    "word": "Authorization",
+    "description": "Granting access to specific resources or actions once a user is authenticated."
+  },
+  {
+    "word": "Password",
+    "description": "A secret string used to verify identity when accessing systems or accounts."
+  },
+  {
+    "word": "Brute Force",
+    "description": "A hacking method that tries every possible password combination until it finds the right one."
+  },
+  {
+    "word": "Two-Factor",
+    "description": "Two-Factor Authentication adds a second step to verifying your identity (like a code + password)."
+  },
+  {
+    "word": "Honeypot",
+    "description": "A decoy system set up to lure and analyze cyber attackers."
+  },
+  {
+    "word": "Trojan",
+    "description": "A type of malware disguised as legitimate software to trick users into installing it."
+  },
+  {
+    "word": "Spyware",
+    "description": "Software that secretly gathers user data and sends it to a third party."
+  },
+  {
+    "word": "Hashing",
+    "description": "Transforming data into a fixed-size string (hash), typically used for password storage."
+  },
+  {
+    "word": "Threat Model",
+    "description": "A structured approach to identifying and mitigating potential security risks in a system."
+  }
+]
