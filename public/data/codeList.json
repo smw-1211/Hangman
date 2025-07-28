@@ -1,0 +1,78 @@
+[
+  {
+    "word": "Python",
+    "description": "A high-level, versatile programming language known for its readability and simplicity."
+  },
+  {
+    "word": "Java",
+    "description": "A widely-used object-oriented language designed for portability and performance."
+  },
+  {
+    "word": "JavaScript",
+    "description": "The primary language for client-side web development, enabling interactive web pages."
+  },
+  {
+    "word": "Ruby",
+    "description": "A dynamic, open-source language known for simplicity and used in the Rails framework."
+  },
+  {
+    "word": "PHP",
+    "description": "A server-side scripting language mainly used for web development."
+  },
+  {
+    "word": "HTML",
+    "description": "The standard markup language used to create and structure content on the web."
+  },
+  {
+    "word": "CSS",
+    "description": "A stylesheet language used to control the presentation and layout of HTML documents."
+  },
+  {
+    "word": "C#",
+    "description": "A modern, object-oriented programming language developed by Microsoft for .NET development."
+  },
+  {
+    "word": "Angular",
+    "description": "A TypeScript-based web application framework developed by Google."
+  },
+  {
+    "word": "Go (Golang)",
+    "description": "A statically typed, compiled language designed by Google for simplicity and performance."
+  },
+  {
+    "word": "C",
+    "description": "A powerful general-purpose language that forms the foundation of many modern languages."
+  },
+  {
+    "word": ".NET",
+    "description": "A framework developed by Microsoft for building and running applications on Windows."
+  },
+  {
+    "word": "Perl",
+    "description": "A scripting language known for its strengths in text processing and system administration."
+  },
+  {
+    "word": "Rust",
+    "description": "A systems programming language focused on speed, safety, and concurrency."
+  },
+  {
+    "word": "Scala",
+    "description": "A hybrid functional and object-oriented language that runs on the JVM."
+  },
+  {
+    "word": "Dart",
+    "description": "A client-optimized language developed by Google, often used with Flutter for app development."
+  },
+  {
+    "word": "Fortran",
+    "description": "An early high-level programming language, especially used in scientific computing."
+  },
+  {
+    "word": "COBOL",
+    "description": "A business-oriented programming language primarily used in legacy financial systems."
+  },
+  {
+    "word": "Haskell",
+    "description": "A purely functional programming language known for its strong type system and abstraction."
+  }
+]
