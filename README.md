@@ -36,3 +36,53 @@ Leveraging **React** for dynamic UI 🎨 and **Vite** for blazing-fast developme
 
 >  `Win/Loss Conditions`: 
 >  Declare victory if the player guesses the programming language within a specified number of attempts. End the game if the attempts exceed the maximum limit. 
+
+
+## 🚀 How to Run This Project Locally 
+
+1.  **Clone the repository**
+
+```bash
+
+git clone https://github.com/smw-1211/Hangman
+
+cd Hangman
+
+``` 
+
+2.  **Install dependencies**
+
+```bash
+
+npm i
+
+``` 
+
+3.  **Start the development server**
+
+```bash
+
+npm run dev
+
+```  
+
+4.  **Open in browser**
+Navigate to `http://localhost:5173` (or the terminal-specified URL) to start playing!
+
+---
+
+## 📁 Project Structure Highlights
+
+-  `src/`: Reusable UI components like `KeyEntry`, `Word` and `App`, etc.
+
+-  `public/data/`: Word lists organized by category in json format.
+
+-  `public/img/`: Asset files used as background for each category.
+
+-  `src/App.tsx`: Core game logic and UI structure.
+
+-  `vite.config.js`: Vite configuration for efficient bundling.
+
+  
+## 🤝 Contributions
+Contributions are welcome! Feel free to fork the repo, make changes, and submit a PR **:smiley:**.
